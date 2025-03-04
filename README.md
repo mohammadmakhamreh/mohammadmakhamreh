@@ -11,7 +11,7 @@ I'm a **Computer Systems Engineer** with a passion for **Frontend Development, E
 - **Tools & Platforms:** Arduino IoT Cloud, MySQL, Adobe Photoshop, Illustrator
 
 ## 🌱 Projects
-### 🌿 Gardening with LoRa *(Ongoing)*
+### 🌿 Gardening with LoRa *(02-2025)*
 - Smart gardening system integrating **ESP32, LoRa, and IoT**
 - Automated irrigation using **real-time sensor data**
 - Remote monitoring via **Arduino IoT Cloud**
